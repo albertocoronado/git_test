@@ -1,1 +1,1 @@
-This is Alberto's first git project! Cool Stuff! 
+This is Alberto's first git project! Cool Stuff! :)
